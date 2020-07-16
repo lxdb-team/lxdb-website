@@ -1,0 +1,12 @@
+---
+banner:
+  enable: true
+  bg_image_webp : "images/mp/hero.webp"
+  bg_image: "/images/mb/hero.png"
+  icon: ''
+  title: LXDB
+  content: Free software for free future
+  button:
+    enable: true
+    label: LXDB Software
+    link: "#portfolio"

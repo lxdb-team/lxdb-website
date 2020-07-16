@@ -1,0 +1,26 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Our Programs
+  portfolio_item :
+    # portfolio item loop
+    - name: LXDB MediaSorter
+      image: images/portfolio/lms.png
+      image_webp: images/portfolio/lms.webp
+      categories: ["file management"]
+      content: A program to sort photos and videos to bring your files in Order.
+      link: /en/lms
+
+    - name: TempIno
+      image: images/portfolio/tempino.png
+      image_webp: images/portfolio/tempino.webp
+      categories: ["arduino", "database"]
+      content: A program which reads temperature data from an Arduino Uno with a DHT11 temperature sensor and writes the information to a database.
+      link: /en/tempino
+
+    - name: TopMan
+      image: images/portfolio/topman.png
+      image_webp: images/portfolio/topman.webp
+      categories: ["database"]
+      content: 'A program to manage computers at schools.'
+      link: /en/topman

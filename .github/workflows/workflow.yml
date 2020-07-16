@@ -1,0 +1,29 @@
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@master
+        with:
+          submodules: true
+      - name: Hugo to GH Pages
+        uses: chabad360/hugo-gh-pages@v1.2
+        with:
+          # A Github Personal Access Token with Repo permissions
+          githubToken: ${{ secrets.TOKEN }}
+          # The custom domain name for your GH Pages Site
+          cname: web.lxdb.de
+          # The branch to push the built site to
+          branch: master
+          # The repo to push the built site to
+          repo: lxdb-team/lxdb-team.github.io
+          # The version of hugo to use
+          hugoVersion: 0.69.0
+          # Arguments to pass to Hugo
+          args: # optional, default is --gc --minify --cleanDestinationDir

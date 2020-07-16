@@ -1,0 +1,29 @@
+############################# feature ###################################
+feature:
+  enable: true
+  image: images/about/about-business-man.jpg
+  image_webp: images/about/about-business-man.webp
+  title: Unsere Software ist frei
+  content: Die Software, die wir erstellen, wird unter der OpenSource Lizenz
+    GNU GPLv3.0 veröffentlicht.
+  feature_item:
+    - title: Für jeden verfügbar.
+      icon: ti-world
+      content: Unsere Software ist nach den OpenSource-Richtlinien für alle
+        nutzbar.
+
+    - title: Von jedem bearbeitbar.
+      icon: ti-panel
+      content: Da der Quellcode für alle verfügbar ist, kann jeder unsere
+        Software nach belieben anpassen.
+
+    - title: Pay-what-you-want.
+      icon: ti-money
+      content: Nach dem Pay-what-you-want-System kann unsere Software für einen
+        selbst bestimmbaren Betrag oder auch kostenlos erhalten werden.
+
+    - title: Effizient weiterentwickelbar.
+      icon: ti-pencil
+      content: Da der Quellcode frei verfügbar ist, kann er von jedem
+        aktualisiert, verbessert, auf GitHub hochgeladen und von unserem
+        LXDB-Team eingebunden werden.

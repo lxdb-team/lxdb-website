@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/mb/hero.webp"
+  bg_image : "/images/mb/hero.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "LXDB"
+  content : "Free software for free future"
+  button:
+    enable : true
+    label : "LXDB Software"
+    link : "#portfolio"

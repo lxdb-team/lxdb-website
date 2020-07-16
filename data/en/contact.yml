@@ -1,0 +1,23 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : You have detected a bug or have suggestions how to make our software better ? Contact Us !
+  form_action: "https://formspree.io/xrgeewea" #contact form works with https://formspree.io
+
+  contact_details :
+    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
+      info : 'Phone (Germany) : +49 (0) 34568495508'
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : 'Email (Denys Konovalov): [service@lxdb.de](mailto:service@lxdb.de)'
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : 'Email (Fabian Ecke): [fte-13@gmx.de](mailto:fte-13@gmx.de)'
+
+  name: Your name
+  email: Your Email
+  subject: Subject
+  messgae: Message
+  submit: Submit

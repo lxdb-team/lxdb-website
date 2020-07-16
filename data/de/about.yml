@@ -1,0 +1,19 @@
+############################# About ###################################
+about:
+  enable: true
+  title: Über LXDB
+  about_item:
+    - icon: ti-ruler-pencil
+      title: Wir sind kreativ.
+      content: Bei allem, was man kreiert zählt Kreativität. Bei unseren
+        Programmen gehen wir immer kreativ vor, um ihnen immer das beste
+        Benutzungserlebnis zu bieten.
+    - icon: ti-thought
+      title: Wir handeln offen.
+      content: Jegliche Produkte, die wir anbieten, sind freie Software und
+        können von jedem beliebig genutzt und verändert werden.
+    - icon: ti-linux
+      title: Wir nutzen Linux.
+      content: Um OpenSource-Software zu verbreiten und die Freiheit der
+        Technkwelt zu sichern benutzen wir nur Linux, um unsere Software zu
+        erstellen.

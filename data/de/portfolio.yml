@@ -1,0 +1,25 @@
+#################################### portfolio ###############################
+portfolio:
+  enable: true
+  title: Unsere Programme
+  portfolio_item:
+    - name: LXDB MediaSorter
+      image: images/portfolio/lms.png
+      image_webp: images/portfolio/lms.webp
+      categories: ["Dateiverwaltung"]
+      content: Fotos und Videos nach Datum sortieren, um Ordnung in den Dateien zu schaffen.
+      link: /de/lms
+
+    - name: TempIno
+      image: images/portfolio/tempino.png
+      image_webp: images/portfolio/tempino.webp
+      categories: ["arduino", "datenbanken"]
+      content: Daten von einem an das Arduino-Board angeschlossenen Temperatursensor in eine Datenbank schreiben.
+      link: /de/tempino
+
+    - name: TopMan
+      image: images/portfolio/topman.png
+      image_webp: images/portfolio/topman.webp
+      categories: ["datenbanken"]
+      content: Ausleihungen von Laptops an Schulen verwalten.
+      link: /de/topman

@@ -1,0 +1,20 @@
+- id: blogTitle
+  translation: Lezte Beiträge
+- id: readMore
+  translation: Mehr anzeigen
+- id: viewAllPost
+  translation: Alle Beiträge anzeigen
+- id: share
+  translation: Teilen
+- id: aboutAuthor
+  translation: Über mich
+- id: authorsPosts
+  translation: Meine Beiträge
+- id: policy
+  translation: Datenschutzerklärung
+- id: policy-url
+  translation: datenschutzerklärung
+- id: submit
+  translation: Submit
+- id: all
+  translation: Alles

@@ -1,0 +1,14 @@
+---
+downloads:
+  enable: true
+  title: LXDB MediaSorter herunterladen
+  os_Downloads:
+  - icon: ti-linux
+    title: Linux
+    content: Anleitung zur Installation von LXDB MediaSorter unter [Linux](/de/lms/linux)
+  - icon: ti-microsoft
+    title: Microsoft Windows®
+    content: Installationsdatei für [Windows 7+ x86/x64](https://lxdb.de/lms_win_x86_64.exe)
+  - icon: ti-apple
+    title: macOS
+    content: In Arbeit

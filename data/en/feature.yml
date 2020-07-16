@@ -1,0 +1,32 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/about-business-man.jpg
+  image_webp : images/about/about-business-man.webp
+  title : Our software is free
+  content : "The software we're creating is ditributed under the OpenSource
+    license GNU GPLv3.0."
+  feature_item :
+      # feature item loop
+    - title : Available for everyone.
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Available under an OpenSource-license our software is usable by
+        everyone.
+
+      # feature item loop
+    - title : Customizable by everyone.
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Because the source code is available for everyone, you can
+        customize it as-you-want.
+
+      # feature item loop
+    - title : Pay-what-you-want.
+      icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      content : With tha pay-ehat-you-want purchasing system you can decide how
+        much you pay for our software, or even get it free.
+
+      # feature item loop
+    - title : Efficient developable
+      icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
+      content : Because the source code is customizable by everyone, you can
+        edit and improve it, to make the software better.

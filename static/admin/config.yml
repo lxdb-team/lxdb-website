@@ -1,0 +1,23 @@
+backend:
+  name: github
+  repo: lxdb-team/lxdb-team.github.io
+  branch: master
+  site_domain: lxdb.netlify.com
+
+media_folder: "/static/images"
+public_folder: "/images"
+language: "de"
+
+collections:
+  - name: "blog" # Used in routes, e.g., /admin/collections/blog
+    label: "Blog DE" # Used in the UI
+    folder: "/content/german/blog/" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Autor", name: "author", widget: "string"}
+      - {label: "Datum", name: "date", widget: "datetime"}
+      - {label: "Beschreibung", name: "description", widget: "text"}
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Bild", name: "image", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}

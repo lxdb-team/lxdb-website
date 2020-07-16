@@ -1,0 +1,18 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Our Services
+  service_item :
+  - name: Program development
+    icon: ti-package
+    content: We're developing [programs](#portfolio), wich are available under
+      the GNU GPLv3.0 licence.
+
+  - name: Arduino
+    icon: ti-files
+    content: We're writing and providing [arduino-sketches](/en/arduino).
+
+  - name: LXDB YouTube
+    icon: ti-video-clapper
+    content: On our [youtube-channel](http://youtube.lxdb.de) LXDB, we're
+      providing tutorials and other exiting videos about OpenSource-software.

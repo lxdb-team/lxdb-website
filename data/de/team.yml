@@ -1,0 +1,53 @@
+---
+team:
+  enable: true
+  title: Unser Team
+  team_member:
+  - name: Denys Konovalov
+    image_webp: images/team/lxdb.webp
+    image: images/team/lxdb.png
+    designation: LXDB Initiator, Entwickler und Designer
+    content: ''
+    social:
+    - icon: ti-github
+      link: https://github.com/lxdb
+    - icon: ti-twitter-alt
+      link: https://twitter.com/LXDB_DE
+    - icon: ti-instagram
+      link: https://instagram.com/denyskon
+    - icon: ti-email
+      link: mailto:service@lxdb.de
+  - name: Fabian Ecke
+    image_webp: images/team/fte.webp
+    image: images/team/fte.png
+    designation: Entwickler und Designer
+    content: ''
+    social:
+    - icon: ti-github
+      link: https://github.com/FabianEcke
+    - icon: ti-image
+      link: https://fte-13.netlify.app
+    - icon: ti-youtube
+      link: https://youtube-fte.lxdb.de
+    - icon: ti-instagram
+      link: https://instagram.com/f_t_e13
+  - name: GreatGodOfFire
+    image_webp: images/team/whole.webp
+    image: images/team/whole.png
+    designation: Entwickler
+    content: ''
+    social:
+    - icon: ti-github
+      link: https://github.com/GreatGodOfFire
+    - icon: ti-youtube
+      link: https://www.youtube.com/channel/UCvk1l1jVlDbbKhy60rTm22w
+  - name: LuDraws
+    image_webp: images/team/lucie.webp
+    image: images/team/lucie.png
+    designation: Designer
+    content: ''
+    social:
+    - icon: ti-youtube
+      link: https://www.youtube.com/channel/UCwbxbXJugZ8IAubNmwT4LLw
+    - icon: ti-instagram
+      link: https://www.instagram.com/luzockt_/

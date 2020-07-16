@@ -1,0 +1,23 @@
+---
+contact:
+  enable: true
+  title: Kontakt
+  subtitle: Kontaktdaten
+  content: Sie haben einen Fehler entdeckt oder möchten neue Funktionen vorschlagen ? Nehmen sie Kontakt zu uns auf !
+  form_action: https://formspree.io/xrgeewea
+
+  contact_details:
+    - icon: ti-mobile
+      info: 'Telefon (Deutschland) : +49 (0) 34568495508'
+
+    - icon: ti-email
+      info: 'Email (Denys Konovalov): [service@lxdb.de](mailto:service@lxdb.de)'
+
+    - icon: ti-email
+      info: 'Email (Fabian Ecke): [fte-13@gmx.de](mailto:fte-13@gmx.de)'
+
+  name: Ihr Name
+  email: Ihre E-Mail Adresse
+  subject: Betreff
+  message: Nachricht
+  submit: Absenden

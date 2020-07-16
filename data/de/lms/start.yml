@@ -1,0 +1,11 @@
+---
+startpage:
+  enable: true
+  bg_Image: ""
+  icon: "/images/lms/logo-196.png"
+  title: LXDB MediaSorter
+  content: Bringen sie ihre Dateien in Ordnung !
+  button:
+    enable: true
+    label: Download
+    link: "#lms-download"
