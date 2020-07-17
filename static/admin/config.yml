@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: lxdb-team/lxdb-team.github.io
+  repo: lxdb-team/lxdb-website
   branch: master
   site_domain: d5880f.netlify.app
 
