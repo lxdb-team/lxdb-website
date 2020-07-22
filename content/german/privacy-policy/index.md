@@ -22,7 +22,7 @@ E-Mail-Adresse: <a href="mailto:service@lxdb.de">service@lxdb.de</a>
 
 Telefon: +491708909754
 
-Impressum: <a href="https://lxdb.de/de/impressum">https://lxdb.de/de/impressum</a>
+[Impressum](/de/impressum)
 
 ## Übersicht der Verarbeitungen
 

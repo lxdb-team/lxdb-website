@@ -25,7 +25,7 @@ link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
-link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+link = "https://code.cdn.mozilla.net/fonts/fira.css"
 
 # js plugins
 [[params.plugins.js]]
@@ -45,7 +45,7 @@ link = "plugins/google-map/map.js"
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/lxdb/small+text[h]_cWHITE.png"
+logo = "images/logo.png"
 # Meta data
 description = "LXDB - Free software for free future."
 author = "LXDB Team"
@@ -57,7 +57,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/lxdb/small+text[h]_cWHITE.png"
+preloader = "images/preloader.png"
 
 # google map
 [params.map]

@@ -1,46 +1,9 @@
 ---
-title: LXDB MediaSorter herunterladen
+title: LXDB MediaSorter installation
 image: "/images/lms/lms.png"
 draft:
-layout: "lms"
+layout: "page"
 ---
-
----
-Bringen sie ihre Dateien in Ordnung !
-
-# LXDB MediaSorter ? - Aber was ist das ?
-
-## Idee
-
-Diese Situation ist ihnen bestimmt bekannt - In der modernen Zeit macht man viele Fotos oder Videos, aber man hat nicht die Zeit alle diese Dateien in Ordnung zu bringen - Wenn es nur einfacher ginge ...
-
-Genau dafür wurde LXDB MediaSorter erschaffen - Um einfach auf Knopfdruck Ordnung in Ihre Dateien zu bringen.
-
-## Doch wie funktioniert LXDB MediaSorter ?
-
-![lms](/images/lms/lms-1.png)
-
-Die Nutzung von LXDB MediaSorter ist kinderleicht.
-
-Einfach einen Ordner mit Bildern oder Videos auswählen, Datei- und gegebenenfalls Ordnernamenschema auswählen und auf Start klicken - nach nur ein paar Sekunden herrscht Ordnung in ihren Mediendateien.
-
-## Was kann LXDB MediaSorter ?
-
-![vhnh](/images/lms/vorher-nachher-bt.png)
-
-- Dateien nach Erstellungsdatum und eigenem Nennungschema umbenennen und in Ordner einsortieren
-
-![Metadaten](/images/lms/lms-metadata.png)
-
-- Metadaten von Bidern und Videos anzeigen
-
-![Vorschau](/images/lms/lms-preview.png)
-
-- Foto- und Videovorschau
-![Terminal-Version](/images/lms/lms-cli.png)
-
-- Textbasierende Terminal-Version
-
 ## LXDB MediaSorter installieren
 
 LXDB MediaSorter ist unter den meisten Linux-Distributionen installierbar.

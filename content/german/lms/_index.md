@@ -1,12 +1,12 @@
 ---
-title: LXDB MediaSorter Installation unter Linux
+title: LXDB MediaSorter
 image: "/images/lms/lms.png"
 draft:
 layout: "lms"
 ---
 
 ---
-Bringen sie ihre Dateien in Ordnung !
+Bringen Sie ihre Dateien in Ordnung !
 
 # LXDB MediaSorter ? - Aber was ist das ?
 

@@ -3,7 +3,7 @@ contact:
   enable: true
   title: Kontakt
   subtitle: Kontaktdaten
-  content: Sie haben einen Fehler entdeckt oder möchten neue Funktionen vorschlagen ? Nehmen sie Kontakt zu uns auf !
+  content: Sie haben einen Fehler entdeckt oder möchten neue Funktionen vorschlagen ? Nehmen Sie Kontakt zu uns auf !
   form_action: https://formspree.io/xrgeewea
 
   contact_details:

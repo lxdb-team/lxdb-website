@@ -2,19 +2,13 @@
 title: PRIVACY POLICY
 layout: "page"
 ---
-
-
 **Last updated 04/20/2020**
 
 Thank you for choosing to be part of our community at LXDB (“**Company**”, “**we**”, “**us**”, or “**our**”).
- We are committed to protecting your personal information and your right
- to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at service@lxdb.de.
+We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [service@lxdb.de](mailto:service@lxdb.de).
 
-When you visit our website https://lxdb.de, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy,
- we seek to explain to you in the clearest way possible what information
- we collect, how we use it and what rights you have in relation to it.
-We hope you take some time to read through it carefully, as it is
-important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
+When you visit our website https://lxdb.de, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it.
+We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue use of our Sites and our services.
 
 This privacy policy applies to all information collected through our website (such as https://lxdb.de), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy policy as the "**Services**").
 
@@ -127,7 +121,7 @@ We have implemented appropriate technical and organizational security measures d
 
 **In Short:** In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
 
-In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](https://lxdb.de/en/privacy-policy#contact) provided below. We will consider and act upon any request in accordance with applicable data protection laws.
+In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the [contact details](/en/#contact). We will consider and act upon any request in accordance with applicable data protection laws.
 
 If we are relying on your consent to process your personal information, you have the right to withdraw your consent at any time. Please note however that this will not affect the lawfulness of the processing before its withdrawal.
 

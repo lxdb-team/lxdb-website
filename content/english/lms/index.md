@@ -6,7 +6,7 @@ layout: "lms"
 ---
 
 ---
-Bringen sie ihre Dateien in Ordnung !
+Bringen Sie ihre Dateien in Ordnung !
 
 # LXDB MediaSorter ? - Aber was ist das ?
 

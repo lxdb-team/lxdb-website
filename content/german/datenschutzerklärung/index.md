@@ -9,7 +9,7 @@ Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, we
 
 Die verwendeten Begriffe sind nicht geschlechtsspezifisch.
 
-Stand: 20. April 2020
+Stand: 22. Juli 2020
 
 ## Verantwortlicher
 
@@ -23,7 +23,7 @@ E-Mail-Adresse: <a href="mailto:service@lxdb.de">service@lxdb.de</a>
 
 Telefon: +491708909754
 
-Impressum: <a href="https://lxdb.de/de/impressum">https://lxdb.de/de/impressum</a>
+[Impressum](/de/impressum)
 
 ## Übersicht der Verarbeitungen
 
@@ -354,8 +354,6 @@ Die Einbindung setzt immer voraus, dass die Drittanbieter dieser Inhalte die IP-
 - **Rechtsgrundlagen:** Berechtigte Interessen (Art. 6 Abs. 1 S. 1 lit. f. DSGVO), Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO), Vertragserfüllung und vorvertragliche Anfragen (Art. 6 Abs. 1 S. 1 lit. b. DSGVO).
 
 - **Eingesetzte Dienste und Diensteanbieter:**
-
-  > **Google Fonts:** Wir binden die Schriftarten ("Google Fonts") des Anbieters Google ein, wobei die Daten der Nutzer allein zu Zwecken der Darstellung der Schriftarten im Browser der Nutzer verwendet werden. Die Einbindung erfolgt auf Grundlage unserer berechtigten Interessen an einer technisch sicheren, wartungsfreien und effizienten Nutzung von Schriftarten, deren einheitlicher Darstellung sowie unter Berücksichtigung möglicher lizenzrechtlicher Restriktionen für deren Einbindung. Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Website: <a href="https://fonts.google.com/">https://fonts.google.com/</a>; Datenschutzerklärung: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>; Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): <a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active</a>.
 
   > **YouTube-Videos:** Videoinhalte; Dienstanbieter: Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, Mutterunternehmen: Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; Website: <a href="https://www.youtube.com">https://www.youtube.com</a>; Datenschutzerklärung: <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>; Privacy Shield (Gewährleistung Datenschutzniveau bei Verarbeitung von Daten in den USA): <a href="https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active">https://www.privacyshield.gov/participant?id=a2zt000000001L5AAI&status=Active</a>; Widerspruchsmöglichkeit (Opt-Out): Opt-Out-Plugin: <a href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a>,  Einstellungen für die Darstellung von Werbeeinblendungen: <a href="https://adssettings.google.com/authenticated">https://adssettings.google.com/authenticated</a>.
 
