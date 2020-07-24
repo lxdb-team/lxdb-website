@@ -12,13 +12,14 @@ LXDB MediaSorter ist unter den meisten Linux-Distributionen installierbar.
 
 - Installation als Python-Paket aus GIT-Repository(```exiftool``` muss als Abhängigkeit extra installiert werden)
 
-- Installation aus der LXDB-Paketquelle(Alle Abhängigkeiten werden mitinstalliert)
+- Installation aus der LXDB-Paketquelle(Alle Abhängigkeiten werden mit installiert)
 
 - Installation aus einem DEB/RPM-Paket
 
-#### 1. Installation als Python-Paket
+### 1. Installation als Python-Paket
 
-[PyPi.org](https://pypi.org) ist die größte Paketquelle für Python-Programme und Bibliotheken. Um LXDB MediaSorter aus der PyPi-Quelle zu installieren, muss das Paket ```python3-pip``` im System installiert sein.
+Mit Hilde des Python-Paketmanagers `pip` kann LXDB MediaSorter direkt aus den Quellen installiert werden.
+Um LXDB MediaSorter aus dem Quell-Paket zu installieren, muss das Paket ```python3-pip``` im System installiert sein.
 
 Zur Installation muss der folgende Befehl ausgeführt werden:
 
@@ -30,11 +31,11 @@ Desweiteren muss das Kommandozeilenprogramm `exiftool` installiert werden.
 
 Dieses ist z.B. unter RPM-Distributionen im Paket `perl-Image-ExifTool` oder unter DEB-Distributionen im Paket `libimage-exiftool-perl` verfügbar.
 
-#### 2. Installation aus der LXDB-Paketquelle
+### 2. Installation aus der LXDB-Paketquelle
 
 Im LXDB-Repository sind fertige DEB- und RPM-Pakete verfügbar, die in allen Debian- und RPM-basierenden Distributionen installiert werden können.
 
-##### Installation mit APT-Paketmanager
+#### Installation mit APT-Paketmanager
 
 1. Repository hinzufügen:
 
@@ -52,7 +53,7 @@ Im LXDB-Repository sind fertige DEB- und RPM-Pakete verfügbar, die in allen Deb
    sudo apt install python3-lms
    ```
 
-##### Installation mit DNF-Paketmanager
+#### Installation mit DNF-Paketmanager
 
 1. Repository hinzufügen:
 
@@ -70,7 +71,7 @@ Im LXDB-Repository sind fertige DEB- und RPM-Pakete verfügbar, die in allen Deb
    sudo dnf install lms
    ```
 
-##### Instalation mit YUM-Paketmanager
+#### Instalation mit YUM-Paketmanager
 
 1. Repository hinzufügen:
 
@@ -88,7 +89,7 @@ Im LXDB-Repository sind fertige DEB- und RPM-Pakete verfügbar, die in allen Deb
    sudo yum install lms
    ```
 
-##### Installation mit ZYPPER-Paketmanager
+#### Installation mit ZYPPER-Paketmanager
 
 1. Repository hinzufügen:
 
@@ -106,7 +107,7 @@ Im LXDB-Repository sind fertige DEB- und RPM-Pakete verfügbar, die in allen Deb
    sudo zypper in lms
    ```
 
-#### 3. Installation mit DEB- oder RPM-Datei
+### 3. Installation mit DEB- oder RPM-Datei
 
 [DEB-Datei herunterladen](https://dl.bintray.com/lxdb/deb/lms_2020.4_amd64.deb)
 

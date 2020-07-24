@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp : "images/mp/hero.webp"
-  bg_image: "/images/mb/hero.png"
+  #bg_image_webp : "images/mp/hero.webp"
+  bg_image: "/images/hero.png"
   icon: ''
   title: LXDB
   content: Free software for free future

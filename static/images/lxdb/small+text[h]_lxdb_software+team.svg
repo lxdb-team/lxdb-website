@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="646.91931mm"
+   height="329.67313mm"
+   viewBox="0 0 646.91931 329.67312"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="small+text[h]_lxdb_software+team.svg"
+   inkscape:export-filename="/home/denys/github/lxdb-website/static/images/logo.png"
+   inkscape:export-xdpi="9.6979637"
+   inkscape:export-ydpi="9.6979637">
+  <defs
+     id="defs2">
+    <rect
+       x="587.10278"
+       y="123.33707"
+       width="721.71027"
+       height="395.80704"
+       id="rect935" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.175"
+     inkscape:cx="2641.0712"
+     inkscape:cy="1267.4929"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-44.21947,-123.13561)">
+    <path
+       style="fill:#2117f8;fill-opacity:1;stroke-width:0.954603"
+       d="m 65.003481,258.1595 c -1.059931,-1.05992 -0.726006,-5.5872 0.502728,-6.81593 0.806526,-0.80651 6.255376,-1.14551 18.412236,-1.14551 h 17.266685 l 2.50362,-7.63684 2.50362,-7.63687 H 76.398685 c -21.900056,0 -30.097179,-0.30349 -30.939204,-1.14552 -1.653348,-1.65336 -1.653348,-107.74454 0,-109.39786 1.660449,-1.66048 171.696029,-1.66048 173.356449,0 1.65335,1.65332 1.65335,107.7445 0,109.39786 -0.84201,0.84203 -9.03915,1.14552 -30.93919,1.14552 h -29.79368 l 2.50362,7.63687 2.5036,7.63684 h 17.34075 c 18.95367,0 19.9061,0.26788 19.31405,5.43126 l -0.30763,2.68289 -66.89558,0.24516 c -36.792575,0.13476 -67.184851,-0.0441 -67.538389,-0.39775 z m 88.135549,-8.7301 c 0,-0.42277 -1.00635,-3.75196 -2.23629,-7.39821 l -2.23633,-6.62954 H 132.13769 115.609 l -2.23631,6.62954 c -1.22998,3.64625 -2.23631,6.97544 -2.23631,7.39821 0,0.42275 9.4506,0.76866 21.00131,0.76866 11.55074,0 21.00134,-0.34591 21.00134,-0.76866 z m 58.231,-62.23534 V 148.05521 H 157.2713 c -48.99983,0 -54.26328,-0.14883 -55.84447,-1.57989 -2.166185,-1.96035 -2.219255,-3.95147 -0.16588,-6.22045 1.49525,-1.65224 4.48614,-1.74574 55.84445,-1.74574 h 54.26462 v -3.34111 -3.34115 H 132.13769 52.905408 v 3.34115 3.34111 h 8.52327 c 9.008174,0 11.523457,1.04184 11.523457,4.77304 0,3.73119 -2.515283,4.77304 -11.523457,4.77304 h -8.52327 v 39.13885 39.13883 h 79.232282 79.23234 z m -93.79006,31.42554 c -0.91882,-0.53516 -1.67134,-1.9182 -1.6723,-3.07346 -10e-4,-2.08244 23.212,-57.32362 25.05189,-59.61545 2.20991,-2.7527 7.40646,-0.72138 7.40646,2.89516 0,2.63044 -23.88762,58.22556 -25.62195,59.63155 -1.75901,1.42597 -2.93112,1.46277 -5.1641,0.1621 z M 98.949585,200.30494 c -8.01921,-8.04203 -10.72375,-11.36518 -10.72375,-13.17661 0,-1.82848 2.77162,-5.15985 11.30508,-13.58819 6.217795,-6.14123 11.950465,-11.16586 12.739225,-11.16586 1.76369,0 4.59387,2.99852 4.59387,4.86706 0,0.75657 -4.07248,5.43113 -9.04993,10.3879 l -9.049915,9.01228 9.049915,9.21132 c 8.83454,8.99205 10.32387,11.64138 7.9044,14.06085 -2.97593,2.97592 -5.87831,1.31282 -16.768895,-9.60875 z m 49.607335,9.60875 c -2.41944,-2.41947 -0.93011,-5.0688 7.90439,-14.06085 l 9.04994,-9.21132 -9.04994,-9.01228 c -4.97744,-4.95677 -9.04989,-9.70596 -9.04989,-10.55377 0,-1.80546 2.93178,-4.70119 4.75972,-4.70119 0.69757,0 6.35557,5.02463 12.57336,11.16586 8.60691,8.50085 11.30508,11.75124 11.30508,13.61868 0,1.85435 -2.62419,5.06962 -10.75424,13.17663 -10.90359,10.87264 -13.79148,12.52517 -16.73842,9.57824 z M 81.755995,146.56914 c -4.28127,-2.99871 -1.31327,-8.06001 4.72649,-8.06001 3.49365,0 6.51638,2.29098 6.51638,4.93889 0,4.04139 -7.11071,6.01539 -11.24287,3.12112 z"
+       id="path1845"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <text
+       xml:space="preserve"
+       id="text933"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect935);fill:#2117f8;fill-opacity:1;stroke:none;" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:194.636px;line-height:1;font-family:sans-serif;fill:#2117f8;fill-opacity:1;stroke:none;stroke-width:0.380148;"
+       x="225.76477"
+       y="259.35831"
+       id="text941"><tspan
+         sodipodi:role="line"
+         id="tspan939"
+         x="225.76477"
+         y="259.35831"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:194.636px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Heavy';fill:#2117f8;fill-opacity:1;stroke-width:0.380148;">LXDB</tspan></text>
+    <text
+       id="text1430"
+       y="452.80875"
+       x="370.91357"
+       style="font-style:normal;font-weight:normal;font-size:269.55px;line-height:0.9;font-family:sans-serif;fill:#2117f8;fill-opacity:1;stroke:none;stroke-width:0.526462;"
+       xml:space="preserve"><tspan
+         id="tspan1432"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:269.55px;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans Bold';text-align:center;text-anchor:middle;fill:#2117f8;fill-opacity:1;stroke-width:0.526462;"
+         y="452.80875"
+         x="370.91357"
+         sodipodi:role="line">TEAM</tspan></text>
+  </g>
+</svg>
