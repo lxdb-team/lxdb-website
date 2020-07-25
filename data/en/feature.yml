@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/about-business-man.jpg
-  image_webp : images/about/about-business-man.webp
+  image : images/about/open-source.png
+  #image_webp : images/about/about-business-man.webp
   title : Our software is free
   content : "The software we're creating is ditributed under the OpenSource
     license GNU GPLv3.0."

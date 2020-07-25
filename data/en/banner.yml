@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/mb/hero.webp"
-  bg_image : "/images/mb/hero.jpg"
+  #bg_image_webp : "images/mb/hero.webp"
+  bg_image : "/images/hero.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "LXDB"
   content : "Free software for free future"
