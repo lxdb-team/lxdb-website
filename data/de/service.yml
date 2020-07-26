@@ -10,11 +10,15 @@ service:
 
   - name: Arduino
     icon: ti-files
-    content: Wir schreiben und stellen [Arduino-Sketche](/de/arduino) zur
-      Verfügung.
+    content: Wir bieten verschiedene [Arduino-Sketche](/de/arduino) zu
+      unterschiedlichen Themenbereichen an.
 
   - name: LXDB YouTube
     icon: ti-video-clapper
-    content: Auf dem [YouTube-Kanal](http://youtube.lxdb.de)
-      LXDB stellen wir Tutorials und andere spannende Videos rund um
-      OpenSource-Software online.
+    content: Auf unserem [YouTube-Kanal](http://youtube.lxdb.de) stellen wir
+      Tutorials und andere Videos rund um OpenSource-Software online.
+
+  - name: Webdesign
+    icon: ti-world
+    content: Wir entwickeln Internetseiten für nichtkommerzielle Organisatioenen,
+      z.B. Schulen, Technikvereine usw.
