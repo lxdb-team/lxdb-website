@@ -117,7 +117,7 @@ a:hover {
 .btn-transparent:focus {
   background-color: #57cbcc;
   border: 1px solid transparent;
-  color: #fff;
+  color: #292f36;
 }
 
 .border-meghna {
@@ -220,7 +220,7 @@ a:hover {
 
 .btn-main {
   background: #57cbcc;
-  color: #fff;
+  color: #292f36;
   display: inline-block;
   font-size: 14px;
   letter-spacing: 1px;
@@ -229,8 +229,8 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
-  color: #fff;
+  background: #292f36;
+  color: #2c9091;
 }
 
 .mt-20 {
@@ -505,6 +505,11 @@ a:hover {
   letter-spacing: 1px;
 }
 
+.hero-area .block .btn-transparent:hover {
+  background: #fff;
+  color: #292f36;
+}
+
 .hero-area-video {
   height: 100vh;
   position: inherit !important;
@@ -540,7 +545,8 @@ a:hover {
   background: rgba(0, 0, 0, 0.7);
   height: 100%;
   width: 100%;
-  position: absolute;
+  position: abser LXDB
+olute;
   z-index: -1;
 }
 
@@ -609,6 +615,11 @@ a:hover {
   font-size: 16px;
   font-weight: bold;
   letter-spacing: 1px;
+}
+
+.hero-area-lms .block .btn-transparent:hover {
+  color: #292f36;
+  background: #fff;
 }
 
 
@@ -714,12 +725,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: #fff;
+  color: #292f36;
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: #fff;
+  color: #292f36;
 }
 
 .call-to-action .btn-main {
@@ -733,7 +744,7 @@ a:hover {
   padding: 100px 0;
   background-image: url("../images/call-to-action/call-to-action-bg.jpg");
   background-size: cover;
-  color: #fff;
+  color: #4b4b4b;
 }
 
 .call-to-action-2 h2 {
@@ -788,6 +799,7 @@ a:hover {
 #contact-submit {
   border: 1px solid rgba(236, 239, 241, 0.07);
   background: #57cbcc;
+  color: #292f36;
   padding: 12px 0;
   width: 100%;
   margin: 0;
