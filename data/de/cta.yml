@@ -1,8 +1,8 @@
 ############################# call to action ##############################
 cta:
   enable: true
-  bg_image: "/images/home/cta.png"
-  bg_image_webp: "/images/home/cta.webp"
+  bg_image: "/images/home/cta.jpg"
+  #bg_image_webp: "/images/home/cta.webp"
   title: Machen Sie mit uns die Computerwelt freier.
   content: Haben Sie Verbesserungs- oder Funktionsvorschläge?
   button:
