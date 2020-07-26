@@ -19,11 +19,11 @@ feature:
 
     - title: Pay-what-you-want.
       icon: ti-money
-      content: Nach dem Pay-what-you-want-System kann unsere Software für einen
-        selbst bestimmbaren Betrag oder auch kostenlos erhalten werden.
+      content: "Nach dem Pay-what-you-want-System kann unsere Software für einen
+        selbst bestimmbaren Betrag,  \n oder auch kostenlos erhalten werden."
 
     - title: Effizient weiterentwickelbar.
       icon: ti-pencil
-      content: Da der Quellcode frei verfügbar ist, kann er von jedem
-        aktualisiert, verbessert, auf GitHub hochgeladen und von unserem
-        LXDB-Team eingebunden werden.
+      content: "Da der Quellcode frei verfügbar ist, kann er von jedem
+        aktualisiert, verbessert,  \n auf GitHub hochgeladen und von unserem
+        LXDB-Team eingebunden werden."

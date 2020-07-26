@@ -22,11 +22,11 @@ feature:
       # feature item loop
     - title : Pay-what-you-want.
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
-      content : With tha pay-ehat-you-want purchasing system you can decide how
-        much you pay for our software, or even get it free.
+      content : "With tha pay-ehat-you-want purchasing system you can decide how
+        much you pay for our software,  \n or even get it free."
 
       # feature item loop
     - title : Efficient developable
       icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
-      content : Because the source code is customizable by everyone, you can
-        edit and improve it, to make the software better.
+      content : "Because the source code is customizable by everyone, you can
+        edit and improve it,  \n to make the software better."
