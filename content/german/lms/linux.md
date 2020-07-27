@@ -109,6 +109,4 @@ Im LXDB-Repository sind fertige DEB- und RPM-Pakete verfügbar, die in allen Deb
 
 ### 3. Installation mit DEB- oder RPM-Datei
 
-[DEB-Datei herunterladen](https://dl.bintray.com/lxdb/deb/lms_2020.4_amd64.deb)
-
-[RPM-Datei herunterladen](https://dl.bintray.com/lxdb/rpm/lms_2020.4_amd64.rpm)
+Für eine manuelle Installation aus einer RPM/DEB-Datei kann die Passende Datei auf der [Release-Seite](https://github.com/lxdb-website/lms/releases) von dem LMS GitHub-Repository heruntergeladen werden.

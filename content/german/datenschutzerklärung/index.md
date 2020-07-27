@@ -19,7 +19,7 @@ Brucknerstraße 8
 
 06110 Halle(Saale)
 
-E-Mail-Adresse: <a href="mailto:service@lxdb.de">service@lxdb.de</a>
+E-Mail-Adresse: [service@lxdb.de](mailto:service@lxdb.de)
 
 Telefon: +491708909754
 

@@ -630,7 +630,6 @@ olute;
 .about .block {
   background: #242930;
   padding: 30px;
-  border-bottom: 2px solid transparent;
   transition: .5s all;
   margin-bottom: 20px;
 }

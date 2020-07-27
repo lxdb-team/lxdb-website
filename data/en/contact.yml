@@ -8,13 +8,10 @@ contact:
 
   contact_details :
     - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : 'Phone (Germany) : +49 (0) 34568495508'
+      info : 'Phone (Germany) : +4934568495508'
 
     - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : 'Email (Denys Konovalov): [service@lxdb.de](mailto:service@lxdb.de)'
-
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : 'Email (Fabian Ecke): [fte-13@gmx.de](mailto:fte-13@gmx.de)'
+      info : 'E-Mail (Denys Konovalov): [service@lxdb.de](mailto:service@lxdb.de)'
 
   name: Your name
   email: Your Email

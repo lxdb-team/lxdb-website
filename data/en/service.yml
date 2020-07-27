@@ -1,4 +1,4 @@
-################################# Service #################################
+---
 service:
   enable : true
   title : Our Services
@@ -10,9 +10,15 @@ service:
 
   - name: Arduino
     icon: ti-files
-    content: We're writing and providing [arduino-sketches](/en/arduino).
+    content: We're provide different self-written [arduino sketches](/en/arduino) for various usage
+      cases.
 
   - name: LXDB YouTube
     icon: ti-video-clapper
-    content: On our [youtube-channel](http://youtube.lxdb.de) LXDB, we're
-      providing tutorials and other exiting videos about OpenSource-software.
+    content: We provide tutorials and other exciting videos about OpenSOurce
+      software on our [YouTube channel](http://youtube.lxdb.de).
+
+  - name: Webdesign
+    icon: ti-world
+    content: "We create websites for non-commercial organizations, schools,
+      thechnology clubs and more."

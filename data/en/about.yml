@@ -5,12 +5,12 @@ about:
   about_item :
   - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
     title : We're creative.
-    content : In everything you create is creativity very important. In our programs we always handle creative to offer you the best user experience.
+    content : In things you create is creativity very important. We always handle creative to offer you the best user experience.
 
   - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
     title : We think open.
     content : "Anything we offer is free software,  \n so that you can use and customize it as-you-want."
 
   - icon : ti-linux # themify icon pack : https://themify.me/themify-icons
-    title : We're using GNU/Linux.
-    content :  "We're using GNU/Linux to write our software,  \n because we think that OpenSource is the future."
+    title : We're using Linux.
+    content :  "We're using Linux to write our software, because we think that OpenSource is the future."

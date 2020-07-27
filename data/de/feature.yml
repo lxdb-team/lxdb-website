@@ -2,14 +2,14 @@
 feature:
   enable: true
   image: images/about/open-source.png
-  #image_webp: images/about/about-business-man.webp
+  image_webp: images/about/open-source.webp
   title: Unsere Software ist frei
   content: Die Software, die wir erstellen, wird unter der OpenSource Lizenz
     GNU GPLv3.0 veröffentlicht.
   feature_item:
     - title: Für jeden verfügbar.
       icon: ti-world
-      content: Unsere Software ist nach den OpenSource-Richtlinien für alle
+      content: Unsere Software ist nach den OpenSource Richtlinien für alle
         nutzbar.
 
     - title: Von jedem bearbeitbar.
@@ -17,13 +17,13 @@ feature:
       content: Da der Quellcode für alle verfügbar ist, kann jeder unsere
         Software nach belieben anpassen.
 
-    - title: Pay-what-you-want.
+    - title: Pay what you want.
       icon: ti-money
-      content: "Nach dem Pay-what-you-want-System kann unsere Software für einen
+      content: "Nach dem Pay-what-you-want-System  \n kann unsere Software für einen
         selbst bestimmbaren Betrag,  \n oder auch kostenlos erhalten werden."
 
     - title: Effizient weiterentwickelbar.
       icon: ti-pencil
-      content: "Da der Quellcode frei verfügbar ist, kann er von jedem
+      content: "Da der Quellcode frei verfügbar ist,  \n kann er von jedem
         aktualisiert, verbessert,  \n auf GitHub hochgeladen und von unserem
         LXDB-Team eingebunden werden."
