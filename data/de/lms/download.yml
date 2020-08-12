@@ -9,6 +9,6 @@ downloads:
   - icon: ti-microsoft
     title: Microsoft Windows®
     content: Installationsdatei für [Windows 7+ x86/x64](https://lxdb.de/lms_win_x86_64.exe)
-  - icon: ti-apple
-    title: macOS
-    content: In Arbeit
+  #- icon: ti-apple
+  #  title: macOS
+  #  content: In Arbeit
