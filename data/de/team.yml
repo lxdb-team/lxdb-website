@@ -55,5 +55,7 @@ team:
     designation: ''
     content: ''
     social:
+    - icon: ti-github
+      link: https://github.com/ODIRFY
     - icon: ti-twitter
       link: https://twitter.com/ODIRFY
