@@ -9,7 +9,7 @@ theme = "meghna-hugo"
 title = "LXDB Team"
 [Languages.de]
 contentDir = "content/german"
-copyright = "Copyright &copy; 2019-2020 [LXDB Team](https://web.lxdb.de)"
+copyright = "Copyright &copy; 2019-2021 [LXDB Team](https://web.lxdb.de)"
 home = "Startseite"
 languageCode = "de-de"
 languageName = "De"
