@@ -4,19 +4,28 @@ auto_deploy: false
 admin_path: "/static/admin/"
 webhook_url: 
 sections:
-- type: directory
-  path: content
-  label: Pages
-  create: all
-  match: "*"
+- type: heading
+  label: Content
 - type: directory
   path: content/german
-  label: German
+  label: Deutsch
   create: all
   match: "**/*"
 - type: directory
   path: content/english
-  label: English
+  label: Englisch
+  create: all
+  match: "**/*"
+- type: heading
+  label: Seiten
+- type: directory
+  path: data/de
+  label: DE
+  create: all
+  match: "**/*"
+- type: directory
+  path: data/en
+  label: EN
   create: all
   match: "**/*"
 - type: heading
@@ -24,6 +33,8 @@ sections:
 - type: document
   path: config.toml
   label: Config.toml
+  match: "**/*"
+  read_only: false
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
