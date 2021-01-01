@@ -41,10 +41,10 @@ team:
       link: https://github.com/GreatGodOfFire
     - icon: ti-youtube
       link: https://www.youtube.com/channel/UCvk1l1jVlDbbKhy60rTm22w
-  - name: Onno/TGH
-    image_webp: ''
-    image: ''
-    designation: ''
+  - name: Onno
+    image_webp: "/images/team/onno.webp"
+    image: "/images/team/onno.png"
+    designation: Entwickler
     content: ''
     social:
     - icon: ti-github
