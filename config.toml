@@ -1,21 +1,88 @@
-################################# Default configuration ###################
 baseURL = "https://web.lxdb.de"
-title = "LXDB Team"
-theme = "meghna-hugo"
-# post pagination
-paginate = "6"
-# post excerpt
-summaryLength = "15"
-# disqus short name
-disqusShortname = "lxdb" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = []
-# default language
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
-
-############################# Plugins ##########################
-# css plugins
+disableLanguages = []
+disqusShortname = "lxdb"
+paginate = "6"
+summaryLength = "15"
+theme = "meghna-hugo"
+title = "LXDB Team"
+[Languages.de]
+contentDir = "content/german"
+copyright = "Copyright &copy; 2019-2020 [LXDB Team](https://web.lxdb.de)"
+home = "Startseite"
+languageCode = "de-de"
+languageName = "De"
+weight = 1
+[[Languages.de.menu.main]]
+URL = "about"
+name = "Über uns"
+weight = 2
+[[Languages.de.menu.main]]
+URL = "feature"
+name = "Initiative"
+weight = 3
+[[Languages.de.menu.main]]
+URL = "services"
+name = "Services"
+weight = 4
+[[Languages.de.menu.main]]
+URL = "portfolio"
+name = "Programme"
+weight = 5
+[[Languages.de.menu.main]]
+URL = "team"
+name = "Team"
+weight = 6
+[[Languages.de.menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 7
+[[Languages.de.menu.main]]
+URL = "contact"
+name = "Kontakt"
+weight = 8
+[Languages.en]
+contentDir = "content/english"
+copyright = "copyright &copy; 2019-2020 [LXDB Team](https://web.lxdb.de)"
+home = "Home"
+languageCode = "en-us"
+languageName = "En"
+weight = 1
+[[Languages.en.menu.main]]
+URL = "about"
+name = "About Us"
+weight = 1
+[[Languages.en.menu.main]]
+URL = "feature"
+name = "Initiative"
+weight = 2
+[[Languages.en.menu.main]]
+URL = "services"
+name = "Services"
+weight = 3
+[[Languages.en.menu.main]]
+URL = "portfolio"
+name = "Programs"
+weight = 4
+[[Languages.en.menu.main]]
+URL = "team"
+name = "Team"
+weight = 5
+[[Languages.en.menu.main]]
+URL = "blog"
+name = "Blog"
+weight = 6
+[[Languages.en.menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 7
+[params]
+author = "LXDB Team"
+description = "LXDB - Free software for free future."
+google_analitycs_id = ""
+logo = "images/logo.png"
+post_share = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -26,8 +93,6 @@ link = "plugins/magnific-popup/magnific-popup.css"
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "https://code.cdn.mozilla.net/fonts/fira.css"
-
-# js plugins
 [[params.plugins.js]]
 link = "plugins/jquery/jquery.min.js"
 [[params.plugins.js]]
@@ -40,129 +105,21 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
 link = "plugins/lazy-load/lozad.min.js"
-############################# Default Parameters ##########################
-[params]
-logo = "images/logo.png"
-# Meta data
-description = "LXDB - Free software for free future."
-author = "LXDB Team"
-# Google Analitycs
-google_analitycs_id = "UA-143536360-2"
-# post share
-post_share = true
-
-# preloader
 [params.preloader]
 enable = true
 preloader = "images/preloader.png"
-
-############################# social icons ##########################
 [[params.social]]
-icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-github"
 link = "https://github.com/lxdb-team"
-
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-twitter-alt"
 link = "https://twitter.com/lxdb_official"
-
 [[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-youtube"
 link = "http://youtube.lxdb.de"
-
 [[params.social]]
-icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-instagram"
 link = "https://instagram.com/lxdb_official"
-
 [[params.social]]
-icon = "ti-reddit" # themify icon pack : https://themify.me/themify-icons
+icon = "ti-reddit"
 link = "https://www.reddit.com/user/lxdb_official/"
-
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
-weight = 1
-home = "Home"
-copyright = "copyright &copy; 2019-2020 [LXDB Team](https://web.lxdb.de)"
-
-############################# Navigation ##################################
-[[Languages.en.menu.main]]
-URL = "about"
-name = "About Us"
-weight = 1
-
-[[Languages.en.menu.main]]
-URL = "feature"
-name = "Initiative"
-weight = 2
-
-[[Languages.en.menu.main]]
-URL = "services"
-name = "Services"
-weight = 3
-
-[[Languages.en.menu.main]]
-URL = "portfolio"
-name = "Programs"
-weight = 4
-
-[[Languages.en.menu.main]]
-URL = "team"
-name = "Team"
-weight = 5
-
-[[Languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 6
-
-[[Languages.en.menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 7
-
-################################ German Language ########################
-[Languages.de]
-languageName = "De"
-languageCode = "de-de"
-contentDir = "content/german"
-weight = 1
-home = "Startseite"
-copyright = "Copyright &copy; 2019-2020 [LXDB Team](https://web.lxdb.de)"
-
-############################# Navigation ##################################
-[[Languages.de.menu.main]]
-URL = "about"
-name = "Über uns"
-weight = 2
-
-[[Languages.de.menu.main]]
-URL = "feature"
-name = "Initiative"
-weight = 3
-
-[[Languages.de.menu.main]]
-URL = "services"
-name = "Services"
-weight = 4
-
-[[Languages.de.menu.main]]
-URL = "portfolio"
-name = "Programme"
-weight = 5
-
-[[Languages.de.menu.main]]
-URL = "team"
-name = "Team"
-weight = 6
-
-[[Languages.de.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 7
-
-[[Languages.de.menu.main]]
-URL = "contact"
-name = "Kontakt"
-weight = 8
