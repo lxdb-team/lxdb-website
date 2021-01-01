@@ -46,7 +46,9 @@ team:
     image: ''
     designation: ''
     content: ''
-    social: ''
+    social:
+    - icon: ti-github
+      link: https://github.com/MegaCrafter863
   - name: ODIRF
     image_webp: ''
     image: ''
