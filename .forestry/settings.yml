@@ -33,8 +33,12 @@ sections:
 - type: document
   path: config.toml
   label: Config.toml
+- type: directory
+  path: layouts
+  label: Layouts
+  create: all
   match: "**/*"
-  read_only: false
+  new_doc_ext: ".html"
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
