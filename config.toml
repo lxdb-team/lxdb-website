@@ -44,7 +44,7 @@ name = "Kontakt"
 weight = 8
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2019-2020 [LXDB Team](https://web.lxdb.de)"
+copyright = "copyright &copy; 2019-2021 [LXDB Team](https://web.lxdb.de)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
