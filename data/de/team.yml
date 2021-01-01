@@ -3,6 +3,14 @@ team:
   enable: true
   title: Unser Team
   team_member:
+  - name: ODIRF
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social:
+    - icon: ti-twitter
+      link: https://twitter.com/ODIRFY
   - name: Denys Konovalov
     image_webp: images/team/lxdb.webp
     image: images/team/lxdb.png
@@ -41,13 +49,9 @@ team:
       link: https://github.com/GreatGodOfFire
     - icon: ti-youtube
       link: https://www.youtube.com/channel/UCvk1l1jVlDbbKhy60rTm22w
-  - name: LuDraws
-    image_webp: images/team/lucie.webp
-    image: images/team/lucie.png
-    designation: Designer
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
     content: ''
-    social:
-    - icon: ti-youtube
-      link: https://www.youtube.com/channel/UCwbxbXJugZ8IAubNmwT4LLw
-    - icon: ti-instagram
-      link: https://www.instagram.com/luzockt_/
+    social: ''
