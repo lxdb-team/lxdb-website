@@ -19,6 +19,13 @@ sections:
   label: English
   create: all
   match: "**/*"
+- type: heading
+  label: Konfiguration
+- type: document
+  path: config.toml
+  label: Config.toml
+  match: "**/*"
+  read_only: false
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
