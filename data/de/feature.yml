@@ -17,13 +17,11 @@ feature:
       content: Da der Quellcode für alle verfügbar ist, kann jeder unsere
         Software nach belieben anpassen.
 
-    - title: Pay what you want.
+    - title: Kostenlos.
       icon: ti-money
-      content: "Nach dem Pay-what-you-want-System  \n kann unsere Software für einen
-        selbst bestimmbaren Betrag,  \n oder auch kostenlos erhalten werden."
+      content: "Da unsere Software unter einer freien Lizenz steht,  \n wird diese immer kostenfrei erhältlich sein."
 
     - title: Effizient weiterentwickelbar.
       icon: ti-pencil
       content: "Da der Quellcode frei verfügbar ist,  \n kann er von jedem
-        aktualisiert, verbessert,  \n auf GitHub hochgeladen und von unserem
-        LXDB-Team eingebunden werden."
+        aktualisiert, verbessert,  \n und überprüft werden."

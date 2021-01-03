@@ -3,9 +3,9 @@ cta:
   enable: true
   bg_image: "/images/home/cta.jpg"
   bg_image_webp: "/images/home/cta.webp"
-  title: Machen Sie mit uns die Computerwelt freier
-  content: Haben Sie Verbesserungs- oder Funktionsvorschläge?
+  title: Mache mit uns die Computerwelt freier
+  content: Hast du Verbesserungs- oder Funktionsvorschläge ?
   button:
     enable: true
-    label: Kontaktieren Sie uns
+    label: Kontaktiere uns
     link: "#contact"
