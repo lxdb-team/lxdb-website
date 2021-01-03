@@ -19,7 +19,8 @@ feature:
 
     - title: Kostenlos.
       icon: ti-money
-      content: "Da unsere Software unter einer freien Lizenz steht,  wird diese immer kostenfrei erhältlich sein."
+      content: "Da unsere Software unter einer freien Lizenz steht,  wird diese
+        immer kostenfrei erhältlich sein."
 
     - title: Effizient weiterentwickelbar.
       icon: ti-pencil
