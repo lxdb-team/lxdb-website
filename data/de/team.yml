@@ -1,18 +1,18 @@
 ---
 team:
   enable: true
-  title: Unser Team
+  title: Das LXDB Team
   team_member:
   - name: Denys Konovalov
     image_webp: images/team/lxdb.webp
     image: images/team/lxdb.png
-    designation: LXDB Initiator, Entwickler und Designer
+    designation: LXDB Initiator, Entwickler, Designer und Editor
     content: ''
     social:
     - icon: ti-github
       link: https://github.com/lxdb
     - icon: ti-twitter-alt
-      link: https://twitter.com/LXDB_DE
+      link: https://twitter.com/lxdb_official
     - icon: ti-instagram
       link: https://instagram.com/denyskon
     - icon: ti-email
@@ -25,10 +25,10 @@ team:
     social:
     - icon: ti-github
       link: https://github.com/FabianEcke
-    - icon: ti-image
-      link: https://fte-13.netlify.app
+    #- icon: ti-image
+    #  link: https://fte-13.netlify.app
     - icon: ti-youtube
-      link: https://youtube-fte.lxdb.de
+      link: https://www.youtube.com/channel/UCvlvEF032CD_NMKOvCkWeaQ
     - icon: ti-instagram
       link: https://instagram.com/f_t_e13
   - name: GreatGodOfFire
@@ -50,9 +50,9 @@ team:
     - icon: ti-github
       link: https://github.com/MegaCrafter863
   - name: ODIRF
-    image_webp: ''
-    image: ''
-    designation: ''
+    image_webp: '/images/team/whole.webp'
+    image: '/images/team/whole.png'
+    designation: 'Entwickler, Designer, Editor'
     content: ''
     social:
     - icon: ti-github

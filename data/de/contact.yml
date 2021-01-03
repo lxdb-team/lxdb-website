@@ -3,15 +3,15 @@ contact:
   enable: true
   title: Kontakt
   subtitle: Kontaktdaten
-  content: Sie haben einen Fehler entdeckt oder möchten neue Funktionen vorschlagen ? Dann nehmen Sie Kontakt zu uns auf !
+  content: Du möchtest Kontakt zu uns aufnehmen ? Nutze am besten das Kontaktformular !
   form_action: https://formspree.io/xrgeewea
 
   contact_details:
     - icon: ti-mobile
-      info: 'Telefon (Deutschland) : +4934568495508'
+      info: 'Telefon (Deutschland) : [+491708909754](tel:+491708909754)'
 
     - icon: ti-email
-      info: 'E-Mail (Denys Konovalov): [service@lxdb.de](mailto:service@lxdb.de)'
+      info: 'E-Mail: [service@lxdb.de](mailto:service@lxdb.de)'
 
   name: Ihr Name
   email: Ihre E-Mail Adresse
