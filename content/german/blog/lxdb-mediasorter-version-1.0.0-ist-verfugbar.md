@@ -1,10 +1,10 @@
 ---
-author: "Denys Konovalov"
-date: 2021-01-04T18:00:00Z
-description: ""
-image: "/images/lms/lms-ad.png"
+author: Denys Konovalov
+date: 2021-01-04T13:46:19.902Z
+description: Neue Veröffentlichung von LXDB MediaSorter.
+image: /images/lms/lms-ad.png
 image_webp: ""
-title: "LXDB MediaSorter Version 1.0.0 ist verfügbar !"
+title: LXDB MediaSorter Version 1.0.0 ist verfügbar !
 ---
 ## FMDS ist jetzt LXDB MediaSorter !
 
