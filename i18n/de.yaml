@@ -12,8 +12,6 @@
   translation: Meine Beiträge
 - id: policy
   translation: Datenschutzerklärung
-- id: policy-url
-  translation: datenschutzerklärung
 - id: submit
   translation: Submit
 - id: all

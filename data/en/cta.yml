@@ -7,5 +7,5 @@ cta:
   content : "You have detected a bug or have suggestions how to make our software better ?"
   button:
     enable : true
-    label : "Contact Us"
+    label : "Contact us"
     link : "#contact"

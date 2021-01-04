@@ -1,16 +1,9 @@
 ############################# About ###################################
 about:
-  enable : true
-  title : About LXDB
-  about_item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're creative.
-    content : In things you create is creativity very important. We always handle creative to offer you the best user experience.
-
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We think open.
-    content : "Anything we offer is free software,  \n so that you can use and customize it as-you-want."
-
-  - icon : ti-linux # themify icon pack : https://themify.me/themify-icons
-    title : We're using Linux.
-    content :  "We're using Linux to write our software, because we think that OpenSource is the future."
+  enable: true
+  title: About LXDB
+  about_item:
+    - title: Wahat is LXDB ?
+      content: "We are a team of technically enthusiastic young people from Germany who are committing to free Software and would like to contribute something to it."
+    - title: What are we doing ?
+      content: "We write programs, create Tutorials, make Videos about FOSS, and much more. All our offers can be viewed under [Services](#services)."

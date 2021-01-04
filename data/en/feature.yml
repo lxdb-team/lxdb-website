@@ -20,13 +20,12 @@ feature:
         customize it as-you-want.
 
       # feature item loop
-    - title : Pay-what-you-want.
+    - title : Free.
       icon : ti-money # themify icon pack : https://themify.me/themify-icons
-      content : "With tha pay-ehat-you-want purchasing system you can decide how
-        much you pay for our software,  \n or even get it free."
+      content : "Under the terms of an OpenSource license, our software will stay free forever."
 
       # feature item loop
     - title : Efficient developable
       icon : ti-pencil # themify icon pack : https://themify.me/themify-icons
       content : "Because the source code is customizable by everyone, you can
-        edit and improve it,  \n to make the software better."
+        edit and improve it,  to make the software better."

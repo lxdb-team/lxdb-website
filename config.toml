@@ -16,11 +16,11 @@ languageName = "De"
 weight = 1
 [[Languages.de.menu.main]]
 URL = "about"
-name = "Über uns"
+name = "Über LXDB"
 weight = 2
 [[Languages.de.menu.main]]
 URL = "feature"
-name = "Initiative"
+name = "Open Source"
 weight = 3
 [[Languages.de.menu.main]]
 URL = "services"
@@ -28,7 +28,7 @@ name = "Services"
 weight = 4
 [[Languages.de.menu.main]]
 URL = "portfolio"
-name = "Programme"
+name = "Software"
 weight = 5
 [[Languages.de.menu.main]]
 URL = "team"
@@ -44,18 +44,18 @@ name = "Kontakt"
 weight = 8
 [Languages.en]
 contentDir = "content/english"
-copyright = "copyright &copy; 2019-2021 [LXDB Team](https://web.lxdb.de)"
+copyright = "Copyright &copy; 2019-2021 [LXDB Team](https://web.lxdb.de)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "about"
-name = "About Us"
+name = "About LXDB"
 weight = 1
 [[Languages.en.menu.main]]
 URL = "feature"
-name = "Initiative"
+name = "Open Source"
 weight = 2
 [[Languages.en.menu.main]]
 URL = "services"
@@ -63,7 +63,7 @@ name = "Services"
 weight = 3
 [[Languages.en.menu.main]]
 URL = "portfolio"
-name = "Programs"
+name = "Software"
 weight = 4
 [[Languages.en.menu.main]]
 URL = "team"
@@ -79,14 +79,15 @@ name = "Contact"
 weight = 7
 [params]
 author = "LXDB Team"
-description = "LXDB - Free software for free future."
-google_analitycs_id = ""
+description = "Free software for free future."
 logo = "images/logo.png"
 post_share = true
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/fontawesome/css/all.css"
 [[params.plugins.css]]
 link = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
@@ -109,17 +110,20 @@ link = "plugins/lazy-load/lozad.min.js"
 enable = true
 preloader = "images/preloader.png"
 [[params.social]]
-icon = "ti-github"
+icon = "fab fa-github"
 link = "https://github.com/lxdb-team"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "https://twitter.com/lxdb_official"
 [[params.social]]
-icon = "ti-youtube"
-link = "http://youtube.lxdb.de"
+icon = "fab fa-youtube"
+link = "https://www.youtube.com/channel/UCWKhf4ceEglnxMwIYyPYQBw"
 [[params.social]]
 icon = "ti-instagram"
 link = "https://instagram.com/lxdb_official"
 [[params.social]]
 icon = "ti-reddit"
 link = "https://www.reddit.com/user/lxdb_official/"
+[[params.social]]
+icon = "fab fa-mastodon"
+link = "https://mastodon.social/@lxdb"

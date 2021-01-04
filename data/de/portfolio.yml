@@ -9,17 +9,9 @@ portfolio:
       categories: ["Dateiverwaltung"]
       content: Fotos und Videos nach Datum sortieren, um Ordnung in den Dateien zu schaffen.
       link: /de/lms
-
-    - name: TempIno
-      image: images/portfolio/tempino.png
-      image_webp: images/portfolio/tempino.webp
-      categories: ["arduino", "datenbanken"]
-      content: Daten von einem an das Arduino-Board angeschlossenen Temperatursensor in eine Datenbank schreiben.
-      link: /de/tempino
-
-    - name: TopMan
-      image: images/portfolio/topman.png
-      image_webp: images/portfolio/topman.webp
+    - name: LXDB SQLite Viewer
+      image: /images/team/whole.png
+      image_webp: /images/team/whole.webp
       categories: ["datenbanken"]
-      content: Ausleihungen von Laptops an Schulen verwalten.
-      link: /de/topman
+      content: Ein GTK-Programm zun Anzeigen von SQLite-Datenbanken.
+      link: /de/sqlite-viewer

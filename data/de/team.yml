@@ -4,12 +4,12 @@ team:
   title: Das LXDB Team
   team_member:
   - name: Denys Konovalov
-    image_webp: images/team/lxdb.webp
-    image: images/team/lxdb.png
-    designation: LXDB Initiator, Entwickler, Designer und Editor
+    image_webp: images/team/denys.webp
+    image: images/team/denys.png
+    designation: LXDB Initiator, Entwickler und Designer
     content: ''
     social:
-    - icon: ti-github
+    - icon: 'fab fa-github'
       link: https://github.com/lxdb
     - icon: ti-twitter-alt
       link: https://twitter.com/lxdb_official
@@ -23,11 +23,11 @@ team:
     designation: Entwickler und Designer
     content: ''
     social:
-    - icon: ti-github
+    - icon: 'fab fa-github'
       link: https://github.com/FabianEcke
     #- icon: ti-image
     #  link: https://fte-13.netlify.app
-    - icon: ti-youtube
+    - icon: 'fab fa-youtube'
       link: https://www.youtube.com/channel/UCvlvEF032CD_NMKOvCkWeaQ
     - icon: ti-instagram
       link: https://instagram.com/f_t_e13
@@ -37,9 +37,9 @@ team:
     designation: Entwickler
     content: ''
     social:
-    - icon: ti-github
+    - icon: 'fab fa-github'
       link: https://github.com/GreatGodOfFire
-    - icon: ti-youtube
+    - icon: 'fab fa-youtube'
       link: https://www.youtube.com/channel/UCvk1l1jVlDbbKhy60rTm22w
   - name: Onno
     image_webp: "/images/team/onno.webp"
@@ -47,15 +47,15 @@ team:
     designation: Entwickler
     content: ''
     social:
-    - icon: ti-github
+    - icon: 'fab fa-github'
       link: https://github.com/MegaCrafter863
   - name: ODIRF
-    image_webp: '/images/team/whole.webp'
-    image: '/images/team/whole.png'
-    designation: 'Entwickler, Designer, Editor'
+    image_webp: '/images/team/odirf.webp'
+    image: '/images/team/odirf.png'
+    designation: 'Entwickler und Designer'
     content: ''
     social:
-    - icon: ti-github
+    - icon: 'fab fa-github'
       link: https://github.com/ODIRFY
-    - icon: ti-twitter
+    - icon: ti-twitter-alt
       link: https://twitter.com/ODIRFY

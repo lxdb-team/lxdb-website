@@ -1,9 +1,9 @@
 - id: blogTitle
-  translation: Latest Post
+  translation: Latest post
 - id: readMore
   translation: Read more
 - id: viewAllPost
-  translation: View All Post
+  translation: View all post
 - id: share
   translation: Share
 - id: aboutAuthor
@@ -12,8 +12,6 @@
   translation: Author's posts
 - id: policy
   translation: Privacy policy
-- id: policy-url
-  translation: privacy-policy
 - id: submit
   translation: Submit
 - id: all

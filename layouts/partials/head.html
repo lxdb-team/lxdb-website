@@ -9,6 +9,8 @@
 	<meta name="author" content="{{ . }}">{{ end }}
 	{{ hugo.Generator }}
 
+	<meta name="theme" content="Meghna Hugo by Themefisher adopted by Gethugothemes">
+
 	{{ "<!-- plugins -->" | safeHTML }}
 	{{ range .Site.Params.plugins.css }}
 	<link rel="stylesheet" href="{{ .link | absURL }}">

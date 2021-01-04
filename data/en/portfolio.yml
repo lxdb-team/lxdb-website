@@ -1,7 +1,7 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Our Programs
+  title : Our programs
   portfolio_item :
     # portfolio item loop
     - name: LXDB MediaSorter
@@ -10,17 +10,9 @@ portfolio:
       categories: ["file management"]
       content: A program to sort photos and videos to bring your files in Order.
       link: /en/lms
-
-    - name: TempIno
-      image: images/portfolio/tempino.png
-      image_webp: images/portfolio/tempino.webp
-      categories: ["arduino", "database"]
-      content: A program which reads temperature data from an Arduino Uno with a DHT11 temperature sensor and writes the information to a database.
-      link: /en/tempino
-
-    - name: TopMan
-      image: images/portfolio/topman.png
-      image_webp: images/portfolio/topman.webp
+    - name: LXDB SQlite Viewer
+      image: /images/team/whole.png
+      image_webp: /images/team/whole.webp
       categories: ["database"]
-      content: 'A program to manage computers at schools.'
-      link: /en/topman
+      content: 'A GTK SQLite database viewer written in Rust.'
+      link: /de/sqlite-viewer
