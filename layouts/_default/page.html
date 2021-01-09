@@ -23,7 +23,13 @@
         {{ end }}
         <!-- comments -->
         <div class="mt-5">
-          {{ template "_internal/disqus.html" . }}
+          <script src="https://utteranc.es/client.js"
+            repo="lxdb-team/lxdb-website"
+            issue-term="pathname"
+            theme="preferred-color-scheme"
+            crossorigin="anonymous"
+            async>
+          </script>
         </div>
       </div>
 
