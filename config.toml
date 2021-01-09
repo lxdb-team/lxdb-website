@@ -1,4 +1,4 @@
-baseURL = "https://web.lxdb.de"
+baseURL = "https://www.lxdb.de"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
@@ -9,7 +9,7 @@ theme = "meghna-hugo"
 title = "LXDB Team"
 [Languages.de]
 contentDir = "content/german"
-copyright = "Copyright &copy; 2019-2021 [LXDB Team](https://web.lxdb.de)"
+copyright = "Copyright &copy; 2019-2021 [LXDB Team](https://www.lxdb.de)"
 home = "Startseite"
 languageCode = "de-de"
 languageName = "De"
@@ -44,7 +44,7 @@ name = "Kontakt"
 weight = 8
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019-2021 [LXDB Team](https://web.lxdb.de)"
+copyright = "Copyright &copy; 2019-2021 [LXDB Team](https://www.lxdb.de)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"

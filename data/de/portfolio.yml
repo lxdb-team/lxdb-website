@@ -3,15 +3,15 @@ portfolio:
   enable: true
   title: Unsere Programme
   portfolio_item:
-    - name: LXDB MediaSorter
-      image: images/portfolio/lms.png
-      image_webp: images/portfolio/lms.webp
-      categories: ["Dateiverwaltung"]
-      content: Fotos und Videos nach Datum sortieren, um Ordnung in den Dateien zu schaffen.
-      link: /de/lms
-    - name: LXDB SQLite Viewer
-      image: /images/team/whole.png
-      image_webp: /images/team/whole.webp
-      categories: ["datenbanken"]
-      content: Ein GTK-Programm zun Anzeigen von SQLite-Datenbanken.
-      link: /de/sqlite-viewer
+    #- name: LXDB MediaSorter
+    #  image: images/portfolio/lms.png
+    #  image_webp: images/portfolio/lms.webp
+    #  categories: ["Dateiverwaltung"]
+    #  content: Fotos und Videos nach Datum sortieren, um Ordnung in den Dateien zu schaffen.
+    #  link: /de/lms
+    - name: In Arbeit
+      image: /images/team/lxdb.png
+      image_webp: /images/team/lxdb.webp
+      #categories: ["datenbanken"]
+      content: Wir arbeite hart daran, die ersten Programme herauszubringen.
+      #link: /de/sqlite-viewer
