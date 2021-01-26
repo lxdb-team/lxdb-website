@@ -2,7 +2,7 @@ backend:
   name: github
   repo: lxdb-team/lxdb-website
   branch: master
-  site_domain: d5880f.netlify.app
+  site_domain: www.lxdb.de
 
 media_folder: "/static/images"
 public_folder: "/images"
