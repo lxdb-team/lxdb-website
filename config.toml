@@ -123,7 +123,7 @@ icon = "ti-instagram"
 link = "https://instagram.com/lxdb_official"
 [[params.social]]
 icon = "ti-reddit"
-link = "https://www.reddit.com/user/lxdb_official/"
+link = "https://www.reddit.com/r/lxdb/"
 [[params.social]]
 icon = "fab fa-mastodon"
 link = "https://mastodon.social/@lxdb"

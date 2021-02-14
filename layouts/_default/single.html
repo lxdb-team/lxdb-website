@@ -9,7 +9,7 @@
         <h1>{{ .Title }}</h1>
         <ul class="list-inline mb-50">
           <li class="list-inline-item"><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.Author }}</a></li>
-          <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
+          <li class="list-inline-item">{{ dateFormat "2 Jan 2006" .Date }}</li>
         </ul>
         <img class="img-fluid mb-50" src="{{ .Params.Image | absURL }}" alt="blog-image">
       </div>

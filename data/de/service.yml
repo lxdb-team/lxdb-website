@@ -11,3 +11,6 @@ service:
     icon: ti-video-clapper
     content: Auf unseren Kanälen auf [YouTube](https://www.youtube.com/channel/UCWKhf4ceEglnxMwIYyPYQBw) und [LBRY](https://lbry.tv/@lxdb:7) bieten wir
       Tutorials und andere spannende Videos rund um OpenSource-Software an.
+  - name: "[FOSS Planet](https://www.foss-planet.de)"
+    image: /images/fp/fp.png
+    content: "[FOSS Planet](https://www.foss-planet.de) ist eine von uns betriebene [Informationsplattform](/de/blog/foss-planet/) über freie Software, Linux und co."
