@@ -119,11 +119,8 @@ link = "https://twitter.com/lxdb_official"
 icon = "fab fa-youtube"
 link = "https://www.youtube.com/channel/UCWKhf4ceEglnxMwIYyPYQBw"
 [[params.social]]
-icon = "ti-instagram"
-link = "https://instagram.com/lxdb_official"
-[[params.social]]
 icon = "ti-reddit"
 link = "https://www.reddit.com/r/lxdb/"
 [[params.social]]
 icon = "fab fa-mastodon"
-link = "https://mastodon.social/@lxdb"
+link = "https://chaos.social/@lxdb_official"

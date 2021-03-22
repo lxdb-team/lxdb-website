@@ -12,11 +12,11 @@ team:
     - icon: 'fab fa-github'
       link: https://github.com/lxdb
     - icon: ti-twitter-alt
-      link: https://twitter.com/lxdb_official
-    - icon: ti-instagram
-      link: https://instagram.com/denyskon
+      link: https://twitter.com/denyskon
+    - icon: fab fa-mastodon
+      link: https://chaos.social/@denyskon
     - icon: ti-email
-      link: mailto:service@lxdb.de
+      link: mailto:denys.konovalov@pm.me
   - name: Fabian Ecke
     image_webp: images/team/fte.webp
     image: images/team/fte.png
@@ -29,8 +29,8 @@ team:
     #  link: https://fte-13.netlify.app
     - icon: 'fab fa-youtube'
       link: https://www.youtube.com/channel/UCvlvEF032CD_NMKOvCkWeaQ
-    - icon: ti-instagram
-      link: https://instagram.com/f_t_e13
+    - icon: ti-twitter
+      link: https://twitter.com/FabianEcke
   - name: GreatGodOfFire
     image_webp: images/team/whole.webp
     image: images/team/whole.png
